@@ -33,7 +33,7 @@
 		F6AA442C2FEB800A00661641 /* Exceptions for "ChiMem" folder in "ChiMem" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Resources/Info.plist,
 			);
 			target = F6AA44082FEB800900661641 /* ChiMem */;
 		};
